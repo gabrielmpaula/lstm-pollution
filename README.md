@@ -1,2 +1,2 @@
-# lstm-polution
-Prediction of pollution using LSTM (Keras and PyTorch)
+# Pollution Forecast (Keras and PyTorch)
+Prediction of Beijing pollution using LSTM (Keras and PyTorch)
